@@ -1,7 +1,6 @@
 <p align="center">
   <img src="images/banner_top.png" alt="Bee Banner Top" width="100%">
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=custom_gradient=0:FFD752,10:FDD752,100:FDD752&text=HoneyMoney&fontAlignY=40&fontColor=000" alt="HoneyMoney Capsule"/>
 </p>
@@ -78,7 +77,6 @@ python main.py
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=custom_gradient=0:FAA37F,10:FAA37F,100:FAA37F&section=footer" alt="HoneyMoney Capsule Footer"/>
 </p>
-
 <p align="center">
 <img src="images/banner_bottom.png" alt="Bee Banner Bottom" width="100%">
 </p>
